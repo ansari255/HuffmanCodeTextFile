@@ -1,0 +1,1 @@
+Hello, This is an example of application of Huffman coding on a text file for compression. In Information Theory, a Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression.
